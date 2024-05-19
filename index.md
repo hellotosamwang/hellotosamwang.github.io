@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# Who I Am
 
 <img src="https://hellotosamwang.github.io/samwang_old.jpg" class="floatpic" width="480" height="400">
 
