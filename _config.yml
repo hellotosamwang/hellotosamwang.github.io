@@ -37,7 +37,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: Who I Am
-    url: /
+ #   url: /
  # - title: Collaborations
  #   url: /collaborations/
  # - title: Research & Articles
