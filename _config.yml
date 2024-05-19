@@ -36,8 +36,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
- #- title: Who I Am
- #   url: /
+ - title: Who I Am
+    url: /
  # - title: Collaborations
  #   url: /collaborations/
  # - title: Research & Articles
