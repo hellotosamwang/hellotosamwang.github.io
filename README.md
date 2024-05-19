@@ -1,6 +1,6 @@
 # GuangLun means Nimbus in Chinese ✨
 
-Here is **SamWang**. This is my personal web repo. 
+Here is **GuangLun** This is my personal web repo. 
 
 If you like it, please star it! 🥰
 
