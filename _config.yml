@@ -37,7 +37,7 @@ owner:
 # For external links add external: true
 links:
   - title: About Me
-    url: /
+    url: /index.md
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
