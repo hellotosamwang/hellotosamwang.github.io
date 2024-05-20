@@ -11,11 +11,6 @@ ___________
 
 welcome!
 
-Here is **Samwang**'s personal academic homepage.
+Here is **Samwang**'s personal academic website.
 
 Now, the website is building and testing......
-
-Interesting
-======
-
-...
