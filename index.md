@@ -1,9 +1,13 @@
-#### About me<br>
+---
+layout: page
+---
 
-________
+# About me
 
+<img src="https://hellotosamwang.github.io/samwang_old.jpg" class="floatpic" width="480" height="400">
 
+welcome!<br>
 
-<img src="https://hellotosamwang.github.io/samwang_old.jpg" class="floatpic" width="300" height="300">
+Here is **Samwang**'s personal academic website.<br>
 
-Welcome!  <br>Here is **Samwang**' personal academic website. <br>Now, the website is building and testing......<br>
+Now, the website is building and testing......<br>
