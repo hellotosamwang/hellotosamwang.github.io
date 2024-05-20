@@ -6,8 +6,4 @@ ________
 
 <img src="https://hellotosamwang.github.io/samwang_old.jpg" class="floatpic" width="480" height="400">
 
-Welcome!
-
-Here is **Samwang**' personal academic website.
-
-Now, the website is building and testing......
+Welcome!  <br>Here is **Samwang**' personal academic website. <br>Now, the website is building and testing......<br>
