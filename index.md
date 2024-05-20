@@ -9,8 +9,8 @@ ___________
 
 <img src="https://hellotosamwang.github.io/samwang_old.jpg" class="floatpic" width="400" height="400">
 
-<p>welcome!</p>>
+<p>welcome!<br>
 
-<p>Here is **Samwang**'s personal academic website.</p>
+Here is **Samwang**'s personal academic website.<br>
 
-<p>Now, the website is building and testing......</p>
+Now, the website is building and testing......</p>
