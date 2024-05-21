@@ -18,8 +18,8 @@ Now, the website is building and testing......
 ##### Interesting
 ______________
 - Sep.2014 - Jun.2017, my work was focus on fabracating thin film physics with experimental method.
-- May.2019 - Oct.2023, my work was foucs on desiging piezoelectric semiconductor material using machine learning (ML) method combining first princple calculation (DFT).
-- Dec.2023 - Now, my work is focus particle physics thoery to discover new physics beyond particle's standard model.
+- May.2019 - Oct.2023, my work was foucs on desiging piezoelectric semiconductor material using machine learning (ML) method combining first principle calculation (DFT).
+- Dec.2023 - Now, my work is focus on particle physics theory to discover new physics beyond particle's standard model.
 
 ##### Skill
 ___________
